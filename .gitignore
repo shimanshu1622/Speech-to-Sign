@@ -1,0 +1,68 @@
+# Python Virtual Environment
+
+.venv/
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Environment variables
+
+.env
+backend/.env
+
+# Node modules
+
+node_modules/
+
+# Docker temporary files
+
+backend/docker/
+docker-compose.override.yml
+
+# Dataset / Raw Data
+
+asl_videos/
+asllvd_raw/
+asllvd_metadata/
+
+# Generated output files
+
+out.mp4
+*.mp4
+*.avi
+*.mov
+
+# System files
+
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+*.swp
+
+# Build / temporary
+
+dist/
+build/
+tmp/
+temp/
+
+# Python package artifacts
+
+*.egg-info/
+.eggs/
+
+# Logs
+
+logs/
+*.log

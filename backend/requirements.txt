@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+sqlalchemy
+psycopg2-binary
+pydantic
+minio
+requests
+faster-whisper
+ffmpeg-python
+python-dotenv
+spacy
+webrtcvad
+websockets
+httptools
+watchfiles
